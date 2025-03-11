@@ -1,2 +1,2 @@
-<div class="page-title">Simple Attendance Management System</div>
+<div class="page-title">Amba's Attendance Management System</div>
 <hr>
