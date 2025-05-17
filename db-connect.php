@@ -1,12 +1,12 @@
 <?php 
 // Hostname
-$host = "localhost";
+$host = "sql211.infinityfree.com";
 // Username
-$uname = "root";
+$uname = "if0_38694714";
 // Password
-$pw = "";
+$pw = "AttendSys";
 // Database Name
-$dbname = "simple_attendance_db";
+$dbname = "if0_38694714_simple_attendance_db";
 
 try{
     $conn = new MySQLi($host, $uname, $pw, $dbname);

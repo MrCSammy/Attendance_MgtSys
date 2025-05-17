@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `simple_attendance_db`
+-- Database: `if0_38694714_simple_attendance_db`
 --
 
 -- --------------------------------------------------------
