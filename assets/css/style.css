@@ -4,6 +4,12 @@
     --font-orbiton: 'Orbitron', sans-serif;
     --font-ubuntu: 'Ubuntu', sans-serif;
 }
+.card i {
+    transition: transform 0.3s ease;
+}
+.card:hover i {
+    transform: scale(1.1);
+}
 
 html,
 body {
